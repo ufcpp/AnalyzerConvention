@@ -6,13 +6,15 @@
 
 ### Installation
 
+Install the template:
+
 ```sh
 dotnet new -i AnalyzerProject.Convention
 ```
 
 NuGet: [https://www.nuget.org/packages/AnalyzerProject.Convention/](https://www.nuget.org/packages/AnalyzerProject.Convention/)
 
-### Create a new project
+Create a new project:
 
 ```sh
 dotnet new AnalyzerConvention
@@ -36,3 +38,5 @@ Extends the CodeFixVerifier class in the "Analyzer with Code Fix" project templa
   - `*.cs` in `Source` folder: inputs for your Analyzer/Code Fix
   - `*.json` in `Diagnostic` folder: diagnostic results of the Source.cs by your Analyzer
   - `*.cs` in `Expected{n}` folder: output source codes by the n-th action of your Code Fix
+
+![Sample Screenshot](doc/screenshot.png)
