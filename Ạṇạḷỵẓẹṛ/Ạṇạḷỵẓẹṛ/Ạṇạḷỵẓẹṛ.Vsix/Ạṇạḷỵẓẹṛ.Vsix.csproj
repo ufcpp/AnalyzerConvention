@@ -31,7 +31,7 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectTypeGuids>{82b43b9b-a64c-4715-b499-d71e9ca2bd60};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <ProjectGuid>{6830D342-6930-43F8-AA43-2E222DE700E2}</ProjectGuid>
+    <ProjectGuid>{82193301-CA7B-41C0-BCEF-01503E0A15EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Ạṇạḷỵẓẹṛ.Vsix</RootNamespace>
@@ -74,7 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Ạṇạḷỵẓẹṛ\Ạṇạḷỵẓẹṛ.csproj">
-      <Project>{CC552C73-1EA3-457B-8E98-2D5D3213C5C5}</Project>
+      <Project>{6CF7E706-F0C9-4508-8977-54C3B61269FB}</Project>
       <Name>Ạṇạḷỵẓẹṛ</Name>
     </ProjectReference>
   </ItemGroup>
