@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "ufcpp",
+  "classifications": [ "Analyzer" ], 
+  "name": "Analyzer with ConventionCodeFixVerifier",
+  "identity": "AnalyzerProject.ConventionCodeFixVerifier",
+  "groupIdentity":"AnalyzerProject",
+  "shortName": "AnalyzerConvension",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "Ạṇạḷỵẓẹṛ",
+  "preferNameDirectory":true
+}
