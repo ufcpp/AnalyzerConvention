@@ -4,8 +4,6 @@
 
 ## How to use
 
-### Installation
-
 Install the template:
 
 ```sh
