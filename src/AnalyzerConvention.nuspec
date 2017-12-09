@@ -2,9 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>AnalyzerProject.Convention</id>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <description>Analyzer with ConventionCodeFixVerifier</description>
     <authors>Nobuyuki Iwanaga</authors>
+    <owners>Nobuyuki Iwanaga</owners>
+    <licenseUrl>https://github.com/ufcpp/AnalyzerConvention/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ufcpp/AnalyzerConvention</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>

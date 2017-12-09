@@ -1,1 +1,1 @@
-nuget pack src\AnalyzerConvension.nuspec
+nuget pack src\AnalyzerConvention.nuspec
